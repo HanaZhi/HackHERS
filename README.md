@@ -1,4 +1,4 @@
-# Know Your Rights — ICE Emergency Clarity Tool
+# Know Your Rights | ICE Emergency Clarity Tool
 
 ## About This Project
 
